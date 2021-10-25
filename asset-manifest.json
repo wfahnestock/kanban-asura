@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kanban-asura/static/css/main.2404bf57.chunk.css",
+    "main.js": "/kanban-asura/static/js/main.3eae1d7a.chunk.js",
+    "main.js.map": "/kanban-asura/static/js/main.3eae1d7a.chunk.js.map",
+    "runtime-main.js": "/kanban-asura/static/js/runtime-main.5535b8a3.js",
+    "runtime-main.js.map": "/kanban-asura/static/js/runtime-main.5535b8a3.js.map",
+    "static/js/2.2d6d9a82.chunk.js": "/kanban-asura/static/js/2.2d6d9a82.chunk.js",
+    "static/js/2.2d6d9a82.chunk.js.map": "/kanban-asura/static/js/2.2d6d9a82.chunk.js.map",
+    "index.html": "/kanban-asura/index.html",
+    "static/css/main.2404bf57.chunk.css.map": "/kanban-asura/static/css/main.2404bf57.chunk.css.map",
+    "static/js/2.2d6d9a82.chunk.js.LICENSE.txt": "/kanban-asura/static/js/2.2d6d9a82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5535b8a3.js",
+    "static/js/2.2d6d9a82.chunk.js",
+    "static/css/main.2404bf57.chunk.css",
+    "static/js/main.3eae1d7a.chunk.js"
+  ]
+}
